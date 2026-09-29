@@ -15,7 +15,7 @@ const char* ssid = " ";
 const char* password = " ";
 
 WebServer server(80);
-String currentTrack = "";
+String currentTrack = " ";
 
 // --- Scrolling Variables ---
 int xPos = SCREEN_WIDTH; 
